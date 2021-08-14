@@ -16,6 +16,9 @@ Some examples of queries that our script will find the probability for:
 4. The probability of heart disease (H) for all the patients (D, CP, BP, E)
 
 
+
+
+
 Ouput for a patient who exercises and has a unhealthy diet:
 
 ![image](https://user-images.githubusercontent.com/79022138/129449651-893276e3-4320-4002-99cb-ff92caac0d50.png)
