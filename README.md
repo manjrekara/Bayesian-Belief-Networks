@@ -1,7 +1,7 @@
 # Bayesian-Belief-Networks
 A script to calculate the probability of simple queries, given the general correlation of factors provided by a Bayesian Network
 
-
+A Bayesian Network:
 ![image](https://user-images.githubusercontent.com/79022138/129449478-64ed6607-ff67-4588-87fe-6e9d7cbac11a.png)
 
 
